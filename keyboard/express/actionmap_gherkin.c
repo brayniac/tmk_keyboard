@@ -59,7 +59,7 @@ const action_t PROGMEM actionmaps[][MATRIX_ROWS][MATRIX_COLS] = {
     TAB,    TRNS,   TRNS,   TRNS,   TRNS,   S16,    S17,    S18,    S19,    S20, \
     TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   HOME,   PGDN,   PGUP,   END),
     [5] = ACTIONMAP( \
-    CALC,   WHOM,   MAIL,   MYCM,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   PSCR, \
+    TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   PSCR, \
     TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS, \
     TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS,   TRNS),
 };
